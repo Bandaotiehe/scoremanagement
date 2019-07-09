@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" addBOMForNewFiles="with NO BOM">
+    <file url="file://$PROJECT_DIR$/lib/jcommon-1.0.0.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/jcommon-1.0.0.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/jfreechart-1.0.2.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/lib/junit-3.8.1.jar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/HomeAdmin.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/JTableDemo.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/MyFrame.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/main/Window.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/src/tools/JdbcUtils.java" charset="UTF-8" />
+    <file url="PROJECT" charset="GBK" />
+  </component>
+</project>
